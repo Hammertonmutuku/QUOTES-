@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+li {
+    padding-bottom:10px;
+    font-style: italic;
+    font-size:20px;
+    font-family: 'Indie Flower', cursive;
+}
+.prof {
+    padding-bottom: 20px;
+    font-family: 'Questrial', sans-serif;
+}

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Calistoga&display=swap');
+h1 {
+    text-align: center;
+    font-size: 52px;
+    padding-top:30px;
+    font-family: 'Calistoga', cursive;
+}
